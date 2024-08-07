@@ -1,4 +1,3 @@
-# codsoft-task-no.-1
 import random
 import string
 
