@@ -1,0 +1,1 @@
+I've been developing a versatile To-Do List application in Python. This task empowers users to efficiently manage tasks through a user-friendly interface, facilitating creation, updates, and tracking of to-do lists. Stay organized effortlessly with this command-line or GUI-based tool designed to streamline task management. 
